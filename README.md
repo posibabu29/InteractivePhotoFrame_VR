@@ -5,12 +5,12 @@ To Run the Direct APK File:
 
   1. Download the RecruitmentTask_posibabu.apk file from the APK folder.
   2. Install the downloaded APK file on your Oculus Quest, Quest 2, or Quest 3 (tested on Quest 2) using SideQuest or your preferred method.
-  3.After successful installation of the APK, download the Images RAR file, extract it, and place the images in the application’s persistent path.
+  3. After successfully installing the APK, download the Images RAR file, extract it, and place the images in the application’s persistent path.
 
 To Run in the Editor:
 
   1. Open the Unity project using Unity version 2021.3.40.
-  2. Download the Images RAR file, extract it, and place the images in the application’s persistent path(C:/Users/[YourUsername]/AppData/LocalLow/DefaultCompany/RecruitmentTask_posibabu/).
+  2. Download the Images RAR file, extract it, and place the images in the application’s persistent path( generally, C:/Users/[YourUsername]/AppData/LocalLow/DefaultCompany/InteractivePhotoFrame_VR/).
   3. To test in the editor without a VR headset, enable the XR Device Simulator:
   4. Go to Project Settings > XR Plugin Management > XR Interaction Toolkit and enable XR Device Simulator.
   5. To test with a VR headset, please disable the XR Device Simulator option.
